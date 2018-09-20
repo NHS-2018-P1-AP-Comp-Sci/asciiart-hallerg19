@@ -57,7 +57,6 @@ public class ASCIIArt {
 		System.out.println("        Then always be batman.");
 	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		speech ();
 		head ();
 		torso ();
